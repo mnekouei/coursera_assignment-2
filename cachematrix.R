@@ -1,4 +1,4 @@
-## Here are two functions that are used to create a special object that 
+## Here are two functions that are used to create a object that 
 ## stores a matrix and caches its inverse.
 
 ## This function creates a  matrix object:
